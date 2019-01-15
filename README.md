@@ -1,0 +1,2 @@
+# boo
+base info manage
